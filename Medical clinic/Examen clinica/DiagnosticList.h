@@ -1,0 +1,3 @@
+#pragma once
+enum DiagnosticList {TESTS_REQUEST, MEDICAL_SUGGESTION, EXAMINATION_REQUEST};
+
